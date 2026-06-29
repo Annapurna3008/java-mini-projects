@@ -20,5 +20,6 @@ public class GradeCalculator {
         }else{
             System.out.println("Failed .. Try hard next time");
         }
+        sc.close();
     }
 }
