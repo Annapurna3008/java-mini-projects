@@ -1,12 +1,12 @@
 # Java Conditional Statements 
 
-# Student Grade Calculator.
+# Student Grade Calculator
 
-##Objective
+## Objective
 
-This code accepts student marks as input and determines the corresponding grade using Java conditional statements.
+This program accepts student marks as input and determines the corresponding grade using Java conditional statements.
 
-##Concepts used
+## Concepts used
 
 Conditional Statements:
 We use conditional statements to make decisions based on conditions that if a condition gets true then what happens and if not what will happen.
@@ -26,17 +26,17 @@ In conditional statements we have if-else, if-else-if, switch case.
         and so on....
 
 
-##Project Flow
+## Project Flow
 1. Read marks from the user.
 2. Compare marks using if-else-if statements.
 3. Print the corresponding grade.
 
-For example:
+## For example:
 TestCase1
 Input:
 95
 
-##Ouput:
+Ouput:
 A+ Grade
 
 TestCase2
